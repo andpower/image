@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "17.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/andpower/image/main/codex-pocket/codex-pocket-17.apk",
-  "sha256": "53f966a405f78d63a1707579ba45a40c16c9659d05422a66fa20c7de1f2f9bdc",
-  "notes": "Tanda v17: logs persistentes, diagnostico, SHA-256, historial, backups y herramientas de editor."
+  "versionCode": 18,
+  "versionName": "18.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/andpower/image/main/codex-pocket/codex-pocket-18.apk",
+  "sha256": "4dc7ef66d92cc83587ccc49a32f9cdc2f0557e0674aeb478b222a89a84e23997",
+  "notes": "Tanda v18: backups guardados en Descargas/CodexPocketBackups para acceso rapido."
 }
