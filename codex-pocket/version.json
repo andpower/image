@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "10.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/andpower/image/main/codex-pocket/codex-pocket-10.apk",
+  "versionCode": 11,
+  "versionName": "11.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/andpower/image/main/codex-pocket/codex-pocket-11.apk",
   "notes": "Actualizacion automatica firmada y publicada desde GitHub Actions."
 }
