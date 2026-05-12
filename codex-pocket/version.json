@@ -1,6 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "16.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/andpower/image/main/codex-pocket/codex-pocket-16.apk",
-  "notes": "Actualizacion automatica firmada y publicada desde GitHub Actions."
+  "versionCode": 17,
+  "versionName": "17.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/andpower/image/main/codex-pocket/codex-pocket-17.apk",
+  "sha256": "53f966a405f78d63a1707579ba45a40c16c9659d05422a66fa20c7de1f2f9bdc",
+  "notes": "Tanda v17: logs persistentes, diagnostico, SHA-256, historial, backups y herramientas de editor."
 }
