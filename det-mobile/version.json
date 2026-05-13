@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.5",
-  "apkUrl": "https://raw.githubusercontent.com/andpower/image/main/det-mobile/det-mobile-5.apk",
-  "sha256": "e1eac61f45d7e74327a035a841f1a105169fda3694e88bea99e02f66d3d272b8",
+  "versionCode": 6,
+  "versionName": "1.0.6",
+  "apkUrl": "https://raw.githubusercontent.com/andpower/image/main/det-mobile/det-mobile-6.apk",
+  "sha256": "bd53fd3aa0a676b14c36054deeaee9732a5df886f1e4315dda891f8c020a2bdc",
   "notes": "Nueva version de DET Mobile."
 }
